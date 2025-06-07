@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Vignesh Bank accounts related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Reineka Aishwarya - Product Owner"
     email: "aishwarya@vigneshbank.com"
   onCallSupport:
     - (453) 392-4829
