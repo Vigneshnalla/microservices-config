@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to VigneshBank accounts related QA APIs "
+  message: "Welcome to Vignesh ram Bank accounts related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@vigneshbank.com"
