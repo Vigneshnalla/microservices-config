@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Vignesh Bank cards related QA APIs "
+  message: "Welcome to Vignesh Bank cards related QA env APIs "
   contactDetails:
     name: "Cherryl Pankaj N- QA Lead"
     email: "cherryl@vigneshbank.com"
